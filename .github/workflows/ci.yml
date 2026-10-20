@@ -24,7 +24,7 @@ jobs:
         run: shellcheck scripts/sysinfo.sh scripts/healthcheck.sh
 
       - name: Run Hadolint on Dockerfile
-        uses: hadolint/hadolint-action@v3
+        uses: hadolint/hadolint-action@v3.1.0
         with:
           dockerfile: app/Dockerfile
 
