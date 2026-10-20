@@ -1,0 +1,14 @@
+# IDE and Editor metadata
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# OS metadata
+.DS_Store
+Thumbs.db
+
+# Local environment and temporary files
+*.log
+*.tar
+.env
