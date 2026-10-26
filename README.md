@@ -1,6 +1,6 @@
 # DevOps Intern Final Assessment
 
-[![CI Pipeline](https://github.com/${{ github.repository }}/actions/workflows/ci.yml/badge.svg)](https://github.com/${{ github.repository }}/actions/workflows/ci.yml)
+[![CI Pipeline](https://github.com/Wandile/devops-intern-final/actions/workflows/ci.yml/badge.svg)](https://github.com/Wandile/devops-intern-final/actions/workflows/ci.yml)
 
 - **Engineer:** Wandile
 - **Submission Date:** 2026-10-19
