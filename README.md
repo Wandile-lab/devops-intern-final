@@ -1,5 +1,4 @@
 # DevOps Intern Final Assessment
-
 [![CI Pipeline](https://github.com/Wandile/devops-intern-final/actions/workflows/ci.yml/badge.svg)](https://github.com/Wandile/devops-intern-final/actions/workflows/ci.yml)
 
 - **Engineer:** Wandile
